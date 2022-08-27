@@ -1,0 +1,11 @@
+C:\Users\atell\Desktop\Atos\MeusProjAtos.Net\academiaDot.Net\Desafios para Avaliação\WindowsFormsGaragem\bin\Debug\WindowsFormsGaragem.exe
+C:\Users\atell\Desktop\Atos\MeusProjAtos.Net\academiaDot.Net\Desafios para Avaliação\WindowsFormsGaragem\bin\Debug\WindowsFormsGaragem.exe.config
+C:\Users\atell\Desktop\Atos\MeusProjAtos.Net\academiaDot.Net\Desafios para Avaliação\WindowsFormsGaragem\obj\Debug\WindowsFormsGaragem.csproj.AssemblyReference.cache
+C:\Users\atell\Desktop\Atos\MeusProjAtos.Net\academiaDot.Net\Desafios para Avaliação\WindowsFormsGaragem\obj\Debug\WindowsFormsGaragem.csproj.SuggestedBindingRedirects.cache
+C:\Users\atell\Desktop\Atos\MeusProjAtos.Net\academiaDot.Net\Desafios para Avaliação\WindowsFormsGaragem\obj\Debug\WindowsFormsGaragem.FormGaragem.resources
+C:\Users\atell\Desktop\Atos\MeusProjAtos.Net\academiaDot.Net\Desafios para Avaliação\WindowsFormsGaragem\obj\Debug\WindowsFormsGaragem.Properties.Resources.resources
+C:\Users\atell\Desktop\Atos\MeusProjAtos.Net\academiaDot.Net\Desafios para Avaliação\WindowsFormsGaragem\obj\Debug\WindowsFormsGaragem.csproj.GenerateResource.cache
+C:\Users\atell\Desktop\Atos\MeusProjAtos.Net\academiaDot.Net\Desafios para Avaliação\WindowsFormsGaragem\obj\Debug\WindowsFormsGaragem.csproj.CoreCompileInputs.cache
+C:\Users\atell\Desktop\Atos\MeusProjAtos.Net\academiaDot.Net\Desafios para Avaliação\WindowsFormsGaragem\obj\Debug\WindowsFormsGaragem.exe
+C:\Users\atell\Desktop\Atos\MeusProjAtos.Net\academiaDot.Net\Desafios para Avaliação\WindowsFormsGaragem\obj\Debug\WindowsFormsGaragem.pdb
+C:\Users\atell\Desktop\Atos\MeusProjAtos.Net\academiaDot.Net\Desafios para Avaliação\WindowsFormsGaragem\bin\Debug\WindowsFormsGaragem.pdb

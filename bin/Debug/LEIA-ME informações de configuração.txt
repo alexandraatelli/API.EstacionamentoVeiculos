@@ -1,0 +1,45 @@
+ Instruções de configurações do arquivo de garagem:
+
+ 1. nome arquivo - dadosGaragem.dat;
+
+ 2. os dados são separados por ponto e vírgula (;);
+
+ 3. a sequência de configuração é:
+	- quantidade de vagas na garagem;
+	- valor hora;
+	- nome do estabelecimento;
+	- lista de tipos de veículos permitidos separados por vírgula ex: carro,moto
+	- quantidade de registros a serem mantidos como histórico
+
+ Como exemplo:
+
+	Para um estacionamento que tenha 50 vagas, com o valor de R$ 5,00 reais a hora, de nome
+ Rede Galgos de Estacionamento, que recebe os tipos de veículos: carro, caminhonete e moto, cujo 
+ limite máximo a ser mantido no histórico de veículos (inventário) é de 2000, temos a seguinte
+ linha de configuração:
+	50;5;Rede Galgos de Estacionamento;Carro,Caminhonete,Moto;2000.
+	
+	
+ NOTAS IMPORTANTES:
+
+	Os requisitos iniciais apresentados pelo Instrutor/Professor,  para a criação do programa, foram modificados com 
+    a prévia autorização e ciência dele, que visou melhorias nas funções.
+
+				- Os campos de hora de entrada e saída forma suprimidos e são gerados automáticamente pelo sistema afim de 
+			evitar equívocos e fraudes.
+	
+				- A parte gráfica do Forms ficou mais limpa e com o mínimo necessário de interação do usuário.
+				
+				- Gera automaticamente os tiquets de entrada e saída do serviço.
+					
+				- No arquivo de configuração é definido os tipos de veículos aceitos.
+					
+				- Definição de quantidade máxima de registros de histórico/saída, afim de não esgotar a memória do
+					equipamento, considerando a estrutura deste aplicativo (estrutura em memória é o espelho do arquivo
+					em disco).
+				
+				- Na lista de histórico/saída, o registro mais recente fica no topo.
+					
+				- O nome da empresa é parametrizado no arquivo de configuração.
+			
+				- Incluido a confirmação para encerrar o programa.
