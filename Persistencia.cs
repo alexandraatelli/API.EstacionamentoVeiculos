@@ -114,19 +114,18 @@ namespace WindowsFormsGaragem
             {
                 linha = leitor.ReadLine();
 
-                // gera vetor com parâmetros do sistema,sepapando-os por vírgula. Ou seja,
-                // para cada ponto e vírgula gera um conteúdo diferente. 
+                /* gera vetor com parâmetros do sistema,sepapando-os por vírgula. Ou seja,
+                para cada ponto e vírgula gera um conteúdo diferente. */
                 vetorDados = linha.Split(';');
                 tamanhoDaGaragem = int.Parse(vetorDados[0]);
                 valorDaHora = double.Parse(vetorDados[1]);
 
-                // Representa o nome do estabelecimento constante no arquivo de
-                // configuração.
+                // Representa o nome do estabelecimento constante no arquivo de configuração.
                 nomeEstabelecimento = vetorDados[2];
 
-                // Gerou novo vetor a partir de um elemento do vetor de configurações -
-                // vetorDados - linha 101. - que representa a lista dos tipos de veículos
-                // aceitos, com possibilidade de aumentá-la ou diminui-la.
+                /* Gerou novo vetor a partir de um elemento do vetor de configurações -
+                * vetorDados - linha 101. - que representa a lista dos tipos de veículos
+                * aceitos, com possibilidade de aumentá-la ou diminui-la.*/
                 tipoVeiculo = vetorDados[3].Split(','); 
                 limiteVeiculosHistorico = int.Parse(vetorDados[4]);
             } while (!leitor.EndOfStream);
